@@ -7,8 +7,6 @@ Let's connect on [Linkedin](https://www.linkedin.com/in/shrishtika-bajracharya/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrishtika-bajracharya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrishtika.bajracharya03@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
-
 ## Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)  
