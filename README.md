@@ -38,5 +38,3 @@ Computer Science major with a strong interest in software development, algorithm
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sbajrac2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=sbajrac2&icon=2&color=9)](https://visitcount.itsvg.in)
