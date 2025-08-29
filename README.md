@@ -1,4 +1,4 @@
-## Hi, I'm Shrishtika 👋
+## Hi, I'm Yashaswii 👋
 
 Computer Science major with a strong interest in software development, algorithms, and open-source projects.</br>
 
