@@ -19,6 +19,4 @@ Information Science major with a strong interest in data.</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbajrac2&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
