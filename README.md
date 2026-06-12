@@ -3,7 +3,7 @@
 Information Science major with a strong interest in data.</br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yshresth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yshresth@oswego.edu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yshresth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yswishrestha@gmail.com) 
 
 ### 💻 Tech Stack:
 #### Programming Languages:
