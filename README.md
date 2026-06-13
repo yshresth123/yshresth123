@@ -72,7 +72,7 @@ Turning data into actionable business insights through SQL, Python, Excel, and P
 
 ## 🤝 Connect With Me
 
-- LinkedIn: yshresth 
+- LinkedIn: linkedin.com/yshresth 
 - Email: yswishrestha@gmail.com
 
 
