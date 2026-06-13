@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yash 👋</h1>
+<h1 align="center">Hi, I'm Yashaswi 👋</h1>
 
 <p align="center">
 Aspiring Data Analyst | Product Analyst | Business Intelligence
@@ -70,25 +70,9 @@ Turning data into actionable business insights through SQL, Python, Excel, and P
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
-- LinkedIn: 
+- LinkedIn: yshresth 
 - Email: yswishrestha@gmail.com
 
 
